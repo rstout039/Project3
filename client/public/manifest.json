@@ -1,0 +1,15 @@
+{
+    "short_name": "Job Generation",
+    "name": "Stoutimus Job Requirement Generation",
+    "icons": [
+        {
+            "src": "favicon.ico",
+            "sizes": "64x64",
+            "type": "image/png"
+        }
+    ],
+    "state_url": "./index.html",
+    "display": "standalone",
+    "theme_color": "#000000",
+    "background_color": "#ffffff" 
+}
